@@ -38,4 +38,4 @@ jobs:
         run: npm test
 
       - name: Build Project
-        run: npm start
+        run: npm run build
